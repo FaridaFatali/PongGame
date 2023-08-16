@@ -1,7 +1,7 @@
 # PongGame
 38. Day - #100DaysOfCode Challenge (Creating Executable 2D Pong Game)
 
-Executable 2D Pong Game with Java. To move the 1st player use W and S, for the 2nd player use Up and Down keys
+Executable 2D Pong Game in Java. To move the 1st player use W and S, for the 2nd player use Up and Down keys
 
 ##
 
